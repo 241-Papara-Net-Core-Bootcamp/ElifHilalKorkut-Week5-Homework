@@ -1,0 +1,36 @@
+C:\Users\elifh\Desktop\New folder\Week5HW.Infrastructure\bin\Debug\net5.0\Week5HW.Infrastructure.deps.json
+C:\Users\elifh\Desktop\New folder\Week5HW.Infrastructure\bin\Debug\net5.0\Week5HW.Infrastructure.runtimeconfig.json
+C:\Users\elifh\Desktop\New folder\Week5HW.Infrastructure\bin\Debug\net5.0\Week5HW.Infrastructure.runtimeconfig.dev.json
+C:\Users\elifh\Desktop\New folder\Week5HW.Infrastructure\bin\Debug\net5.0\Week5HW.Infrastructure.dll
+C:\Users\elifh\Desktop\New folder\Week5HW.Infrastructure\bin\Debug\net5.0\ref\Week5HW.Infrastructure.dll
+C:\Users\elifh\Desktop\New folder\Week5HW.Infrastructure\bin\Debug\net5.0\Week5HW.Infrastructure.pdb
+C:\Users\elifh\Desktop\New folder\Week5HW.Infrastructure\bin\Debug\net5.0\Week5HW.Core.dll
+C:\Users\elifh\Desktop\New folder\Week5HW.Infrastructure\bin\Debug\net5.0\Week5HW.Core.pdb
+C:\Users\elifh\Desktop\New folder\Week5HW.Infrastructure\obj\Debug\net5.0\Week5HW.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\elifh\Desktop\New folder\Week5HW.Infrastructure\obj\Debug\net5.0\Week5HW.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifh\Desktop\New folder\Week5HW.Infrastructure\obj\Debug\net5.0\Week5HW.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\elifh\Desktop\New folder\Week5HW.Infrastructure\obj\Debug\net5.0\Week5HW.Infrastructure.AssemblyInfo.cs
+C:\Users\elifh\Desktop\New folder\Week5HW.Infrastructure\obj\Debug\net5.0\Week5HW.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\elifh\Desktop\New folder\Week5HW.Infrastructure\obj\Debug\net5.0\Week5HW.Infrastructure.csproj.CopyComplete
+C:\Users\elifh\Desktop\New folder\Week5HW.Infrastructure\obj\Debug\net5.0\Week5HW.Infrastructure.dll
+C:\Users\elifh\Desktop\New folder\Week5HW.Infrastructure\obj\Debug\net5.0\ref\Week5HW.Infrastructure.dll
+C:\Users\elifh\Desktop\New folder\Week5HW.Infrastructure\obj\Debug\net5.0\Week5HW.Infrastructure.pdb
+C:\Users\elifh\Desktop\New folder\Week5HW.Infrastructure\obj\Debug\net5.0\Week5HW.Infrastructure.genruntimeconfig.cache
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Infrastructure\bin\Debug\net5.0\Week5HW.Infrastructure.deps.json
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Infrastructure\bin\Debug\net5.0\Week5HW.Infrastructure.runtimeconfig.json
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Infrastructure\bin\Debug\net5.0\Week5HW.Infrastructure.runtimeconfig.dev.json
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Infrastructure\bin\Debug\net5.0\Week5HW.Infrastructure.dll
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Infrastructure\bin\Debug\net5.0\ref\Week5HW.Infrastructure.dll
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Infrastructure\bin\Debug\net5.0\Week5HW.Infrastructure.pdb
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Infrastructure\bin\Debug\net5.0\Week5HW.Core.dll
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Infrastructure\bin\Debug\net5.0\Week5HW.Core.pdb
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Infrastructure\obj\Debug\net5.0\Week5HW.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Infrastructure\obj\Debug\net5.0\Week5HW.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Infrastructure\obj\Debug\net5.0\Week5HW.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Infrastructure\obj\Debug\net5.0\Week5HW.Infrastructure.AssemblyInfo.cs
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Infrastructure\obj\Debug\net5.0\Week5HW.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Infrastructure\obj\Debug\net5.0\Week5HW.Infrastructure.csproj.CopyComplete
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Infrastructure\obj\Debug\net5.0\Week5HW.Infrastructure.dll
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Infrastructure\obj\Debug\net5.0\ref\Week5HW.Infrastructure.dll
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Infrastructure\obj\Debug\net5.0\Week5HW.Infrastructure.pdb
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Infrastructure\obj\Debug\net5.0\Week5HW.Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+C:\Users\elifh\Desktop\New folder\Week5HW.Core\bin\Debug\net5.0\Week5HW.Core.deps.json
+C:\Users\elifh\Desktop\New folder\Week5HW.Core\bin\Debug\net5.0\Week5HW.Core.runtimeconfig.json
+C:\Users\elifh\Desktop\New folder\Week5HW.Core\bin\Debug\net5.0\Week5HW.Core.runtimeconfig.dev.json
+C:\Users\elifh\Desktop\New folder\Week5HW.Core\bin\Debug\net5.0\Week5HW.Core.dll
+C:\Users\elifh\Desktop\New folder\Week5HW.Core\bin\Debug\net5.0\ref\Week5HW.Core.dll
+C:\Users\elifh\Desktop\New folder\Week5HW.Core\bin\Debug\net5.0\Week5HW.Core.pdb
+C:\Users\elifh\Desktop\New folder\Week5HW.Core\obj\Debug\net5.0\Week5HW.Core.csproj.AssemblyReference.cache
+C:\Users\elifh\Desktop\New folder\Week5HW.Core\obj\Debug\net5.0\Week5HW.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifh\Desktop\New folder\Week5HW.Core\obj\Debug\net5.0\Week5HW.Core.AssemblyInfoInputs.cache
+C:\Users\elifh\Desktop\New folder\Week5HW.Core\obj\Debug\net5.0\Week5HW.Core.AssemblyInfo.cs
+C:\Users\elifh\Desktop\New folder\Week5HW.Core\obj\Debug\net5.0\Week5HW.Core.csproj.CoreCompileInputs.cache
+C:\Users\elifh\Desktop\New folder\Week5HW.Core\obj\Debug\net5.0\Week5HW.Core.dll
+C:\Users\elifh\Desktop\New folder\Week5HW.Core\obj\Debug\net5.0\ref\Week5HW.Core.dll
+C:\Users\elifh\Desktop\New folder\Week5HW.Core\obj\Debug\net5.0\Week5HW.Core.pdb
+C:\Users\elifh\Desktop\New folder\Week5HW.Core\obj\Debug\net5.0\Week5HW.Core.genruntimeconfig.cache
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Core\bin\Debug\net5.0\Week5HW.Core.deps.json
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Core\bin\Debug\net5.0\Week5HW.Core.runtimeconfig.json
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Core\bin\Debug\net5.0\Week5HW.Core.runtimeconfig.dev.json
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Core\bin\Debug\net5.0\Week5HW.Core.dll
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Core\bin\Debug\net5.0\ref\Week5HW.Core.dll
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Core\bin\Debug\net5.0\Week5HW.Core.pdb
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Core\obj\Debug\net5.0\Week5HW.Core.csproj.AssemblyReference.cache
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Core\obj\Debug\net5.0\Week5HW.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Core\obj\Debug\net5.0\Week5HW.Core.AssemblyInfoInputs.cache
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Core\obj\Debug\net5.0\Week5HW.Core.AssemblyInfo.cs
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Core\obj\Debug\net5.0\Week5HW.Core.csproj.CoreCompileInputs.cache
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Core\obj\Debug\net5.0\Week5HW.Core.dll
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Core\obj\Debug\net5.0\ref\Week5HW.Core.dll
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Core\obj\Debug\net5.0\Week5HW.Core.pdb
+C:\Users\elifh\Desktop\Week5HW\Week5HW.Core\obj\Debug\net5.0\Week5HW.Core.genruntimeconfig.cache
